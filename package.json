@@ -1,0 +1,23 @@
+{
+  "name": "json-parser",
+  "version": "1.0.0",
+  "description": "JSON Parser",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charanpulivendula/JSON-Parser.git"
+  },
+  "author": "Reddy Charan Pulivendula",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charanpulivendula/JSON-Parser/issues"
+  },
+  "homepage": "https://github.com/charanpulivendula/JSON-Parser#readme",
+  "dependencies": {
+    "jest": "^29.7.0",
+    "json-parser": "file:"
+  }
+}
