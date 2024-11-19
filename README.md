@@ -1,6 +1,6 @@
 # use-json-parser
 
-A custom asynchronous JSON parser with validation capabilities, designed to parse JSON strings or objects and validate their structure.
+A custom asynchronous JSON parser with validation capabilities, designed to parse JSON strings or objects and validate their structure by Reddy Charan Pulivendula.
 
 ## 🌟 Features
 

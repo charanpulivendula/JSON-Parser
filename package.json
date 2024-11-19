@@ -1,5 +1,5 @@
 {
-  "name": "json-parser",
+  "name": "use-json-parser",
   "version": "1.0.0",
   "description": "JSON Parser",
   "main": "src/index.js",
@@ -18,6 +18,8 @@
   "homepage": "https://github.com/charanpulivendula/JSON-Parser#readme",
   "dependencies": {
     "jest": "^29.7.0",
-    "json-parser": "file:"
+    "json-parser": "file:",
+    "use-json-parser": "file:",
+    "useJsonParser": "file:"
   }
 }
